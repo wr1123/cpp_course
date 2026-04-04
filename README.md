@@ -39,3 +39,13 @@ Bienvenido al repositorio del curso **Fundamentos de Programación en C++**. Est
 * **IDE:** VS Code, CLion o cualquier editor de texto.
 
 ---
+
+## 📥 How to Clone / Cómo Clonar
+
+To get a local copy of this project, follow these steps:
+Para obtener una copia local de este proyecto, sigue estos pasos:
+
+### 1. Clone the repository / Clonar el repositorio
+Open your terminal and run / Abre tu terminal y ejecuta:
+```bash
+git clone [https://github.com/wr1123/c-_course.git](https://github.com/wr1123/c-_course.git)
