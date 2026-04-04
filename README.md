@@ -49,3 +49,15 @@ Para obtener una copia local de este proyecto, sigue estos pasos:
 Open your terminal and run / Abre tu terminal y ejecuta:
 ```bash
 git clone https://github.com/wr1123/c-_course.git
+
+---
+## How to compile and run
+
+### 🛠️ Compile
+Open your terminal, navigate to the path where the program.cpp file is located, and run
+```bash
+g++ program.cpp -o program
+
+### ▶️ Run 
+```bash
+./program
