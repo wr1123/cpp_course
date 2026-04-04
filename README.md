@@ -1,3 +1,4 @@
 # C++ Programming Fundamentals
-![](https://es.wikipedia.org/wiki/C%2B%2B)
+<img src="img/ISO_C++_Logo.svg.png" alt="Texto alternativo" width="200" height="auto">
+
 **Table of Contents**
