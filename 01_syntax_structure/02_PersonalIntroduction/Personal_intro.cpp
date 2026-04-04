@@ -27,6 +27,11 @@ int main()
     // Display current role/ocuupation
     std::cout << "I am a Data Quality Analyst Intermediate." << std::endl;
 
+    // add more personal information 
+    std::cout << "Hometown: Zacualpan de Amilpas." << std::endl;
+    std::cout << "Favorite Programming Language: Java." << std::endl;
+    std::cout << "Hobby: Running." << std::endl;
+
     // Display footer
     std::cout << "====================================" << std::endl;
 
