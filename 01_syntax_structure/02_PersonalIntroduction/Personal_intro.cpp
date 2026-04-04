@@ -45,6 +45,14 @@ int main()
     std::cout << "Short-term: Learn C++" << std::endl;
     std::cout << "Long-term: To be able to get a job in a senior position" << std::endl;
 
+    // Why taking this course
+    std::cout << "\nWHY I'M TAKING THIS COURSE" << std::endl;
+    std::cout << "------------------------------------" << std::endl;
+    std::cout << "I want to learn C++ because I believe it is a programming language with multiple fields of application, which could boost my professional career." << std::endl;
+
+    // Closing message
+    std::cout << "\nThank you for reading my introduction!" << std::endl;
+
     // Display footer
     std::cout << "\n====================================" << std::endl;
 
