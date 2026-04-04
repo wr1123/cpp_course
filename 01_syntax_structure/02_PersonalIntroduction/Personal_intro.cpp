@@ -27,13 +27,26 @@ int main()
     // Display current role/ocuupation
     std::cout << "I am a Data Quality Analyst Intermediate." << std::endl;
 
-    // add more personal information 
+    // Add more personal information
     std::cout << "Hometown: Zacualpan de Amilpas." << std::endl;
     std::cout << "Favorite Programming Language: Java." << std::endl;
     std::cout << "Hobby: Running." << std::endl;
 
+    // Educational background section
+    std::cout << "\nEducation" << std::endl;
+    std::cout << "------------------------------------" << std::endl;
+    std::cout << "Degree: Physicist and Mathematician" << std::endl;
+    std::cout << "School: National Polytechnic Institute (IPN)" << std::endl;
+    std::cout << "Year: 2021" << std::endl;
+
+    // Career goals section
+    std::cout << "\nCAREER GOALS" << std::endl;
+    std::cout << "------------------------------------" << std::endl;
+    std::cout << "Short-term: Learn C++" << std::endl;
+    std::cout << "Long-term: To be able to get a job in a senior position" << std::endl;
+
     // Display footer
-    std::cout << "====================================" << std::endl;
+    std::cout << "\n====================================" << std::endl;
 
     // return statement
     return 0;
