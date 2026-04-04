@@ -47,4 +47,5 @@ Para obtener una copia local de este proyecto, sigue estos pasos:
 
 ### 1. Clone the repository / Clonar el repositorio
 Open your terminal and run / Abre tu terminal y ejecuta:
+```sh
 git clone [https://github.com/wr1123/c-_course.git](https://github.com/wr1123/c-_course.git)
