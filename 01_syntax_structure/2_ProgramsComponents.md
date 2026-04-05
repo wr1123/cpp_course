@@ -9,7 +9,7 @@ At the core of any C++ program are several key components that dictate functiona
 ## Preprocessor Directives
 Preprocessor directives set the stage for your program before actual compilation begins. They are for the Preprocessor, which performs its actions before compilation, and they usually begin with a '#'. They organize and streamline your code, enhancing reusability and efficiency.
 
-<img src="../img/1_1Eng.png" alt="Texto alternativo" width="200" height="auto">
+<img src="../img/1_1Eng.png" alt="Process" style="display: block; margin: 0 auto;">
 
 # Componentes del programa, encabezados y espacios de nombres
 
