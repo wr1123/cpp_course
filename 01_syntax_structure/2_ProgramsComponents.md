@@ -22,4 +22,4 @@ En el núcleo de cualquier programa en C++ se encuentran varios componentes clav
 ## Directivas de Preprocesador
 Las directivas de preprocesador preparan el escenario para tu programa antes de que comience la compilación real. Están dirigidas al preprocesador, el cual realiza sus acciones antes de la compilación, y usualmente comienzan con el símbolo #. Estas directivas organizan y simplifican tu código, mejorando su reutilización y eficiencia.
 
-<img src="../img/1_1Es.png" alt="Process" style="display: block; margin: 0 auto;"
+<img src="../img/1_1Es.jpg" alt="Process" style="display: block; margin: 0 auto;"
