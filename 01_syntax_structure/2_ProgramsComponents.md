@@ -285,7 +285,7 @@ Comprender estos componentes va más allá de lo académico; son imperativos en 
 ## Ejemplos
 Pon a prueba tus conocimientos de programación interactiva en C++ integrando lo aprendido. Observa cómo los espacios de nombres y los encabezados personalizados pueden dar forma a un programa.
 
-``cpp
+```cpp
 // myUtils.h
 #pragma once
 namespace messageUtils {
